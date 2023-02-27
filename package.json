@@ -1,0 +1,11 @@
+{
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:can-dy-jack/websocket-chat.git",
+  "author": "can-dy-jack <jjack_chen3@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
